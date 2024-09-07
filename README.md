@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahadalfaifi
 - 👀 I’m interested in Security and Network
-- 🌱 I’m currently learning CompTIA Security +
+- 🌱 I’m CompTIA Security + Certified
 
 
 <!---
